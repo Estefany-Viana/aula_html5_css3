@@ -1,0 +1,36 @@
+body {
+    background:rgba(163, 21, 151, 0.37);          /* cor do plano de fundo */
+    margin-left: 100px;                             /* margem a esquerda */
+    margin-right: 300px;                            /* margem a direita */
+}
+
+header{
+    margin-top: 70px;                               /* distancia acima do elemento */
+}
+
+h1 {
+    color: rgb(4, 0, 7);
+    font-family: fantasy;
+}
+
+h2 {
+    color: rgb(13, 2, 24);
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;                            /* classe (define um padrão para ser usado) */
+    width: 450px;
+}
+
+.logo {
+    width: 30px;
+}
